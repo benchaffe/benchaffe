@@ -26,9 +26,3 @@ I'm diving deep into projects that revolve around:
 - Experimenting with LLMs (Large Language Models) for creative and practical applications.
 - Crafting user-friendly web interfaces and dynamic experiences.
 - Exploring cutting-edge topics in AI research and innovation.
-
----
-
-### 📫 Let's Connect
-- **Portfolio Website:** [benchaffe.co.uk](benchaffe.co.uk)
-- **LinkedIn:** [benchaffe](https://www.linkedin.com/in/benchaffe/)
